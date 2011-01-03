@@ -1,4 +1,4 @@
-# This respository is the demo app that runs on [http://admin-data-test.heroku.com/admin_data](http://admin-data-test.heroku.com/admin_data) ##
+# This respository is the demo app that runs on [http://admin-data-demo.heroku.com/admin_data](http://admin-data-demo.heroku.com/admin_data) ##
 
 # How do I run demo application?
 * bundle install
